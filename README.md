@@ -1,4 +1,3 @@
-# juan-pablo-abadia-medina
 # Comunidad de Juan Pablo Abadía Medina
 
 Un espacio para aprender, compartir experiencias y construir soluciones con blockchain, inteligencia artificial y desarrollo de software.
